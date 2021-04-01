@@ -1,6 +1,5 @@
 //
 // Assignment 4
-// Written by: Asil Erturan, 40164714
 // For COMP 248 Section EC – Fall 2020
 //
 
